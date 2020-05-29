@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/axel-sirota/ci-cd-with-travis.svg?branch=master)](https://travis-ci.com/axel-sirota/ci-cd-with-travis)
+[![Build Status](https://travis-ci.com/keithbentrup/ci-cd-with-travis.svg?branch=master)](https://travis-ci.com/axel-sirota/ci-cd-with-travis)
 
 Sample Flask app for Getting Started with Travis CI Course at Pluralsight
 
